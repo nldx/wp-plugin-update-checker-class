@@ -1,0 +1,29 @@
+{
+	"name": "nldx/wp-plugin-update-checker-class",
+	"description": "A class that allows checking for updates in a self hosted scenario.",
+	"homepage": "http://www.nldx.com",
+	"keywords": ["wordpress","plugins"],
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Robert Schneider",
+			"homepage": "http://www.nldx.com",
+			"role": "Developer"
+		},
+		{
+			"name": "Raffael Knoll",
+			"homepage": "http://www.nldx.com",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/nldx/wp-plugin-update-checker-class",
+		"source": "https://github.com/nldx/wp-plugin-update-checker-class"
+	},
+	"require": {
+		"php": ">=7.4"
+	},
+	"autoload": {
+		"files": ["class-update-checker.php"]
+	}
+}
