@@ -6,7 +6,7 @@
 composer require nldx/wp-plugin-update-checker-class
 ```
 
-## Useage
+## Usage
 
 ```
 
