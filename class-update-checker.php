@@ -11,7 +11,8 @@
 
 namespace NLDX;
 
-if ( !class_exists( 'UpdateChecker' ) ) {
+if (!class_exists('NLDX\\UpdateChecker'))
+{
 	class UpdateChecker
 	{
 
