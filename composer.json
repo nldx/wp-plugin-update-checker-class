@@ -21,7 +21,7 @@
 		"source": "https://github.com/nldx/wp-plugin-update-checker-class"
 	},
 	"require": {
-		"php": ">=7.4"
+		"php": ">=8.2"
 	},
 	"autoload": {
 		"files": ["class-update-checker.php"]
